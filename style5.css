@@ -192,7 +192,8 @@ li{
 
 #news dd a:hover{
     opacity: 0.8;
-    border-bottom: 1px solid #c8c8c8;
+    border-bottom: 1px solid #1e90ff;
+    color: #1e90ff;
 }
 
 /* contact */
