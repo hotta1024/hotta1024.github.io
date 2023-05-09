@@ -114,6 +114,11 @@ li{
 }
 #about ul li{
     margin-bottom: 30px;
+    text-align: center;
+}
+
+#about p{
+    text-align: center;
 }
 
 #about ul li:first-child{
